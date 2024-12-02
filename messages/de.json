@@ -8,5 +8,9 @@
   },
   "Error": {
     "button": "Error auf deutsch"
+  },
+
+  "MetaData": {
+    "title": "Meine App"
   }
 }

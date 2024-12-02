@@ -8,5 +8,8 @@
   },
   "Error": {
     "button": "Error in english"
+  },
+  "MetaData": {
+    "title": "My App"
   }
 }
